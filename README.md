@@ -54,7 +54,7 @@
 &nbsp; <a href="[https://www.linkedin.com/in/dheeraj-singh-chauhan](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguriacp@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/_souvikguria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/_d_heeraj_chauhan/profilecard/?igsh=cmsyOTVrcmY1dGRm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
 <!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
