@@ -51,15 +51,12 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="Row">
-&nbsp; <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=0bivoTfGHrML&format=png&color=000000" width="50" /></a>
-  
 &nbsp; <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=0bivoTfGHrML&format=png&color=000000" width="50" /></a> 
   &nbsp; <a href="dheerajchauhan269@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://x.com/DheerajSingh637?t=G0grBgmoKteCtT83ks0N-g&s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
 &nbsp; <a href="https://www.instagram.com/_d_heeraj_chauhan/profilecard/?igsh=cmsyOTVrcmY1dGRm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> 
 &nbsp; <a href="https://www.facebook.com/profile.php?id=61562829161039&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" width="50" /></a> 
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000
-" width="50" /></a> 
+&nbsp; <a href="www.youtube.com/@DheerajChauhan-x3e" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="50" /></a> 
 </p>
 
 <!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
