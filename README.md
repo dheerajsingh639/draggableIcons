@@ -66,14 +66,15 @@
 
 #### **Visitor Count**
 1. Safari Icon
-![Safari](https://github.com/user-attachments/assets/11019fdd-808c-4693-b4bb-08ab612c4898)
 Description: The iconic compass symbol, in vibrant blue and white tones. It’s sleek, modern, and represents the Safari web browser. Users can drag and drop it for quick access to their internet needs.
+<img src="https://github.com/user-attachments/assets/11019fdd-808c-4693-b4bb-08ab612c4898" width="100" height="100" />
+
 
 Color: Blue with a touch of white and a subtle gradient.
 Shape: Circular, with a compass symbol in the center.
 2. Music Icon
-<img src="https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61" width="150" height="150" />
 Description: A musical note, reminiscent of Apple's Music app. This simple yet stylish icon allows users to instantly access their music library with just a click. Great for music lovers!
+<img src="https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61" width="150" height="150" />
 
 Color: A rich red, giving a lively vibe.
 Shape: Round with a clean, bold note design.
