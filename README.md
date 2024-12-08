@@ -106,7 +106,7 @@ Shape: Rectangular with a top-edge tab for a classic calendar look.**
 
 
 
-<img src="https://github.com/user-attachments/assets/5b9350a9-3eeb-4ad0-b63b-88715dca5c7b" width="612" height="612" alt="Screenshot (20)" />
+<img src="https://github.com/user-attachments/assets/5b9350a9-3eeb-4ad0-b63b-88715dca5c7b" width="912" height="612" alt="Screenshot (20)" />
 
 [See video here](https://drive.google.com/file/d/18jUEaTUEIbuyfZe7uCVadYqevtLZWrT1/view?usp=sharing)
 
