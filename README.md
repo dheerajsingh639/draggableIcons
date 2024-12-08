@@ -67,32 +67,39 @@
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
 
-**This Flutter-based shopping app offers users a seamless and engaging mobile shopping experience. The app includes features such as Registration Form, Forget Password , adding items from admin tabe, and making purchases, all wrapped in a user-friendly interface**
+<img width="158" alt="Finder" src="https://github.com/user-attachments/assets/d343d003-5fef-416e-a37e-a1b363142d73">
+![applestore](https://github.com/user-attachments/assets/b189409c-47de-4131-af45-c6ccbaf365ae)
+**
 1. Safari Icon
+![Safari](https://github.com/user-attachments/assets/11019fdd-808c-4693-b4bb-08ab612c4898)
 Description: The iconic compass symbol, in vibrant blue and white tones. It’s sleek, modern, and represents the Safari web browser. Users can drag and drop it for quick access to their internet needs.
 
 Color: Blue with a touch of white and a subtle gradient.
 Shape: Circular, with a compass symbol in the center.
 2. Music Icon
+![music](https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61)
 Description: A musical note, reminiscent of Apple's Music app. This simple yet stylish icon allows users to instantly access their music library with just a click. Great for music lovers!
 
 Color: A rich red, giving a lively vibe.
 Shape: Round with a clean, bold note design.
 3. Chrome Icon
+![chrome](https://github.com/user-attachments/assets/7b23a8ac-7b33-49a7-9d37-0075f8bc0108)
 Description: A letter icon in a white envelope with a blue flap. Representing the Mac Chrome app, it provides a simple and direct link to email. The iconic look ensures that you can easily identify and access your inbox.
 
 Color: White with blue accents.
 Shape: Envelope, sleek and minimalist.
 4. Finder Icon
+<img width="512" alt="Normallpad" src="https://github.com/user-attachments/assets/5416c9d2-18e2-4b61-9b14-5eb319f1e812">
 Description: The classic smiling face of the Finder app, a friendly and easily recognizable symbol. It gives you access to your files and folders with a click, making it both functional and welcoming.
 
 Color: Blue and white face design, outlined with darker accents.
 Shape: Square with rounded corners, featuring the smiling face.
 5. Calendar Icon
+![calendar](https://github.com/user-attachments/assets/f11fcdc5-b049-4da0-9126-7156a5e2f4b7)
 Description: A simple yet colorful calendar page with a number (for today's date) on it. It allows users to manage events and schedules. A quick drag-and-drop solution for your daily productivity.
 
 Color: A mix of blue, red, and white, highlighting the date number.
-Shape: Rectangular with a top-edge tab for a classic calendar look.
+Shape: Rectangular with a top-edge tab for a classic calendar look.**
 
 
 
