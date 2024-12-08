@@ -65,11 +65,6 @@
 <!-- addded on 3rd May 2021 -->
 
 #### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
-
-<img width="158" alt="Finder" src="https://github.com/user-attachments/assets/d343d003-5fef-416e-a37e-a1b363142d73">
-![applestore](https://github.com/user-attachments/assets/b189409c-47de-4131-af45-c6ccbaf365ae)
-**
 1. Safari Icon
 ![Safari](https://github.com/user-attachments/assets/11019fdd-808c-4693-b4bb-08ab612c4898)
 Description: The iconic compass symbol, in vibrant blue and white tones. It’s sleek, modern, and represents the Safari web browser. Users can drag and drop it for quick access to their internet needs.
@@ -77,7 +72,7 @@ Description: The iconic compass symbol, in vibrant blue and white tones. It’s 
 Color: Blue with a touch of white and a subtle gradient.
 Shape: Circular, with a compass symbol in the center.
 2. Music Icon
-![music](https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61)
+<img src="https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61" width="150" height="150" />
 Description: A musical note, reminiscent of Apple's Music app. This simple yet stylish icon allows users to instantly access their music library with just a click. Great for music lovers!
 
 Color: A rich red, giving a lively vibe.
