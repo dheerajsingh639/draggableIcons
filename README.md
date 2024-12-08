@@ -69,30 +69,37 @@
 Description: The iconic compass symbol, in vibrant blue and white tones. It’s sleek, modern, and represents the Safari web browser. Users can drag and drop it for quick access to their internet needs.
 <img src="https://github.com/user-attachments/assets/11019fdd-808c-4693-b4bb-08ab612c4898" width="100" height="100" />
 
-
 Color: Blue with a touch of white and a subtle gradient.
 Shape: Circular, with a compass symbol in the center.
+
+
 2. Music Icon
 Description: A musical note, reminiscent of Apple's Music app. This simple yet stylish icon allows users to instantly access their music library with just a click. Great for music lovers!
-<img src="https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61" width="150" height="150" />
+<img src="https://github.com/user-attachments/assets/41a67687-6bfd-4df1-afef-6fbd59667f61" width="100" height="100" />
 
 Color: A rich red, giving a lively vibe.
 Shape: Round with a clean, bold note design.
+
+
 3. Chrome Icon
-![chrome](https://github.com/user-attachments/assets/7b23a8ac-7b33-49a7-9d37-0075f8bc0108)
 Description: A letter icon in a white envelope with a blue flap. Representing the Mac Chrome app, it provides a simple and direct link to email. The iconic look ensures that you can easily identify and access your inbox.
+<img src="https://github.com/user-attachments/assets/7b23a8ac-7b33-49a7-9d37-0075f8bc0108" width="100" height="100" />
 
 Color: White with blue accents.
 Shape: Envelope, sleek and minimalist.
+
+
 4. Finder Icon
-<img width="512" alt="Normallpad" src="https://github.com/user-attachments/assets/5416c9d2-18e2-4b61-9b14-5eb319f1e812">
 Description: The classic smiling face of the Finder app, a friendly and easily recognizable symbol. It gives you access to your files and folders with a click, making it both functional and welcoming.
+<img src="https://github.com/user-attachments/assets/5416c9d2-18e2-4b61-9b14-5eb319f1e812" width="100" height="100" alt="Normallpad" />
 
 Color: Blue and white face design, outlined with darker accents.
 Shape: Square with rounded corners, featuring the smiling face.
+
+
 5. Calendar Icon
-![calendar](https://github.com/user-attachments/assets/f11fcdc5-b049-4da0-9126-7156a5e2f4b7)
 Description: A simple yet colorful calendar page with a number (for today's date) on it. It allows users to manage events and schedules. A quick drag-and-drop solution for your daily productivity.
+<img src="https://github.com/user-attachments/assets/f11fcdc5-b049-4da0-9126-7156a5e2f4b7" width="100" height="100" alt="Calendar" />
 
 Color: A mix of blue, red, and white, highlighting the date number.
 Shape: Rectangular with a top-edge tab for a classic calendar look.**
